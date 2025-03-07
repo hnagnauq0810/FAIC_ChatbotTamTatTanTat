@@ -1,1 +1,1 @@
-print("Đây là chatbot FAIC_TamTatTanTat")
+print("1+1 =2")
